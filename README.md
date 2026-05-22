@@ -10,9 +10,9 @@
 
 ### 🧩 Sobre Mim
 
-Sou acadêmico de **Sistemas de Informação na PUCPR**, focado no desenvolvimento de software e em constante evolução técnica. Movido por grandes objetivos profissionais, dedico-me diariamente ao estudo prático, à resolução de problemas complexos e à construção de uma rede sólida de networking (como membro ativo em equipes acadêmicas de projetos).
+### 🧩 Sobre Mim
 
-Atualmente, adoto uma abordagem generalista: estou explorando diferentes ecossistemas, linguagens e paradigmas para compreender onde posso gerar maior impacto técnico e inovação. Possuo **inglês intermediário** com foco ativo em proficiência global, visando atuar no mercado de engenharia de software e desenvolvimento de sistemas.
+Faço Sistemas de Informação na Pontifícia Universidade Católica do Paraná e curto bastante a área de desenvolvimento de software. Estou sempre aprendendo coisas novas, participando de projetos e explorando diferentes tecnologias para evoluir cada vez mais na programação. Também tenho inglês intermediário e sigo melhorando no dia a dia.
 
 ---
 
@@ -50,7 +50,3 @@ Atualmente, adoto uma abordagem generalista: estou explorando diferentes ecossis
 </picture>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&theme=vision-friendly-dark" alt="Linguagens Mais Usadas" />
-</div>
