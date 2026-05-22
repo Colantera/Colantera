@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6793F7&center=true&vCenter=true&width=435&lines=Pedro+Henrique;Sistemas+de+Informa%C3%A7%C3%A3o;Tech+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/seu-usuario-linkedin/">
+    <a href="https://www.linkedin.com/in/pedrohenriquejc/">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" />
     </a>
   </p>
