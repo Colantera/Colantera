@@ -10,8 +10,6 @@
 
 ### 🧩 Sobre Mim
 
-### 🧩 Sobre Mim
-
 Faço Sistemas de Informação na Pontifícia Universidade Católica do Paraná e curto bastante a área de desenvolvimento de software. Estou sempre aprendendo coisas novas, participando de projetos e explorando diferentes tecnologias para evoluir cada vez mais na programação. Também tenho inglês intermediário e sigo melhorando no dia a dia.
 
 ---
