@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6793F7&center=true&vCenter=true&width=435&lines=Pedro+Henrique;Sistemas+de+Informa%C3%A7%C3%A3o;Tech+Enthusiast" alt="Typing SVG" />
 
-<!--
-**Colantera/Colantera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/seu-usuario-linkedin/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" />
+    </a>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+### 🧩 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou acadêmico de **Sistemas de Informação na PUCPR**, focado no desenvolvimento de software e em constante evolução técnica. Movido por grandes objetivos profissionais, dedico-me diariamente ao estudo prático, à resolução de problemas complexos e à construção de uma rede sólida de networking (como membro ativo em equipes acadêmicas de projetos).
+
+Atualmente, adoto uma abordagem generalista: estou explorando diferentes ecossistemas, linguagens e paradigmas para compreender onde posso gerar maior impacto técnico e inovação. Possuo **inglês intermediário** com foco ativo em proficiência global, visando atuar no mercado de engenharia de software e desenvolvimento de sistemas.
+
+---
+
+### 🚀 Stack Tecnológica
+
+*Front-end & Interface*
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+*Back-end & Banco de Dados*
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+*Ferramentas & Ambientes de Desenvolvimento*
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+---
+
+### 🐍 Minhas Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&theme=vision-friendly-dark" alt="Linguagens Mais Usadas" />
+</div>
